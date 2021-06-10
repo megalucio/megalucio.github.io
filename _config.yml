@@ -14,11 +14,11 @@ author: Ignacio Íñigo Hernández
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+About Me: "aboutme"
+Blog: "https://megalucio.github.com"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://inigohernandez.com"
 
 # --- Logo --- #
 
@@ -65,7 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Information Security Specialist
+# rss-description: Information Security Specialist
 
 # --- General options --- #
 
