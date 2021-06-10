@@ -10,5 +10,8 @@ tags: [books, test]
 
 Frecuentemente nos encontramos con presentaciones, documentos y personas que utilizan terminos en inglés. Y a mi esto me parece un poco rimbombante. Para ello quiero crear esta referencia:
 
-Hacer deployment: desplegar
+| Rimbombante | Normal | Comentario |
+| :------ |:--- | :--- |
+| Hacer deployment | Desplegar |  |
+
 
