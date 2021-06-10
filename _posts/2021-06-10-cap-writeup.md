@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Términos informáticos en español
-subtitle: Para que no se pierda su uso
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: Cap WriteUp
+subtitle: A comprenhensive walkthrough
+#cover-img: /assets/img/path.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
